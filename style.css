@@ -1,0 +1,78 @@
+nav {
+    background-color: #f5f5f5;
+    padding: 10px 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+li a:hover {
+    background-color: #ccc;
+    text-decoration: underline 20% rgb(100, 7, 38);
+    width: 4%;
+    padding: 1%;
+    height: 15%;
+}
+
+div .cards-content {
+    margin: 0%;
+    padding: 1px;
+    float: left;
+
+
+}
+
+.heading:hover {
+    width: 9.5cm;
+    position: relative;
+    cursor: pointer;
+    transition: all .60s;
+
+}
+
+div .heading {
+    border: 1rem solid rgb(211, 219, 226);
+    background-color: rgb(211, 219, 226);
+    width: 349px;
+    float: left;
+    margin: 2%;
+    padding: 0cm;
+}
+
+table {
+    border-spacing: 1rem;
+}
+
+img {
+    padding-top: -2%;
+    padding-bottom: 0%;
+    margin: -4%;
+}
+
+#search {
+    float: right;
+}
+
+.filter {
+    float: right;
+}
+
+.img1 {
+    float: right;
+    width: 1.5cm;
+    height: 1.5cm;
+}
